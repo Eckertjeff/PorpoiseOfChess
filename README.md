@@ -1,2 +1,2 @@
 # PorpoiseOfChess
-Chess game for Android.
+Chess for Android.
