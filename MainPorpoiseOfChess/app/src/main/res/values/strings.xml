@@ -1,0 +1,39 @@
+<resources>
+    <!--String resources for user-facing text.-->
+    <string name="app_name">Porpoise of Chess</string>
+
+    <!-- Main Menu Strings -->
+    <string name="button_singleplayer">Single Player</string>
+    <string name="button_multiplayer">Multiplayer</string>
+    <string name="button_tutorial">Tutorial</string>
+    <string name="button_options">Options</string>
+
+    <!-- Single player Setup Strings -->
+    <string name="computer_name">Computer</string>
+    <string name="hint_name">Name</string>
+    <string name="button_start">Start</string>
+
+    <!-- Multiplayer Setup Strings -->
+    <string name="label_black">Black</string>
+    <string name="label_white">White</string>
+
+    <!-- In-Game Strings -->
+    <string name="quit_confirmation">Do you really want to quit this game?</string>
+    <string name="button_quit">Quit</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="win_black">Black Wins!</string>
+    <string name="win_white">White Wins!</string>
+    <string name="game_new">Start a New Game</string>
+    <string name="game_quit">Quit Game</string>
+
+    <!-- Tutorial Strings -->
+    <string name="tutorial">Tutorial</string>
+
+    <!--Options Strings -->
+    <string name="options">Options</string>
+    <string name="button_ai">AI</string>
+
+    <!-- AI Options Strings -->
+    <string name="button_add">Add</string>
+    <string name="button_delete">Delete</string>
+</resources>

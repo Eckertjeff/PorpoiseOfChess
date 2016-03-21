@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="chess.of.porpoisegui.gui" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="chess.of.porpoisegui.gui.StartUpActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.OnePlayerActivity" >
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.TwoPlayerActivity" >
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.OptionsActivity" >
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.TutorialActivity" >
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.MainBoard" >
+        </activity>
+        <activity android:name="chess.of.porpoisegui.gui.AIActivity" >
+        </activity>
+    </application>
+
+</manifest>
